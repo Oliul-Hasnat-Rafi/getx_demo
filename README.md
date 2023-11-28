@@ -1,16 +1,11 @@
-# getx_demo
+# Getx_class16
 
-A new Flutter project.
+<h2>Project Screenshots:</h2>
+<p align="center">
+  <b>Getx</b>
+  <br>
+  <img src="https://i.postimg.cc/Njjj6XC1/Screenshot-1701190997.png" width="250" height = "500" >
+  <img src="https://i.postimg.cc/zfLDMrrv/Screenshot-1701191022.png" width="250" height = "500" >
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
+</p>
